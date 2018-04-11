@@ -1768,6 +1768,14 @@ footer .logo2{
 	.center-bar-next2{
 		margin-top:120%;
 	}
+	.img-p{
+		margin-top:20%;
+	}
+	.center-bar{
+		position:absolute;
+		top:60%;
+	}
+
 }
 
 @media (max-height:600px){
@@ -1784,8 +1792,16 @@ footer .logo2{
 		top:90%;
 	}
 	.center-bar-next2{
-		margin-top:120%;
+		margin-top:160%;
 	}
+	.img-p{
+		margin-top:30%;
+	}
+	.center-bar{
+		position:absolute;
+		top:70%;
+	}
+		
 }
 
 
@@ -1803,7 +1819,14 @@ footer .logo2{
 		top:95%;
 	}
 	.center-bar-next2{
-		margin-top:120%;
+		margin-top:190%;
+	}
+	.img-p{
+		margin-top:40%;
+	}
+	.center-bar{
+		position:absolute;
+		top:80%;
 	}
 }
 
