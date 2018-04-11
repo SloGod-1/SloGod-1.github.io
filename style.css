@@ -1735,3 +1735,106 @@ footer .logo2{
 		margin-right:22%;
 	}
 }
+@media (max-height:525px){
+	.img-img img{
+		position: absolute;
+		top:7%;
+	}
+	.center-bar-text h1{
+		position: absolute;
+		top:20%;
+	}
+	.center-bar-text h2{
+		position: absolute;
+		top:90%;
+	}
+	.center-bar-next2{
+		margin-top:120%;
+	}
+}
+@media (max-height:700px){
+	.img-img img{
+		position: absolute;
+		top:5%;
+	}
+	.center-bar-text h1{
+		position: absolute;
+		top:15%;
+	}
+	.center-bar-text h2{
+		position: absolute;
+		top:80%;
+	}
+	.center-bar-next2{
+		margin-top:120%;
+	}
+}
+
+@media (max-height:600px){
+	.img-img img{
+		position: absolute;
+		top:7%;
+	}
+	.center-bar-text h1{
+		position: absolute;
+		top:20%;
+	}
+	.center-bar-text h2{
+		position: absolute;
+		top:90%;
+	}
+	.center-bar-next2{
+		margin-top:120%;
+	}
+}
+
+
+@media (max-height:500px){
+	.img-img img{
+		position: absolute;
+		top:8%;
+	}
+	.center-bar-text h1{
+		position: absolute;
+		top:25%;
+	}
+	.center-bar-text h2{
+		position: absolute;
+		top:95%;
+	}
+	.center-bar-next2{
+		margin-top:120%;
+	}
+}
+
+
+@media (max-width:452px){
+	.center-bar-next2{
+		margin-top:140%;
+	}
+}
+@media (max-width:422px){
+	.center-bar-next2{
+		margin-top:150%;
+	}
+}
+@media (max-width:320px){
+	.center-bar-next2{
+		margin-top:160%;
+	}
+}
+@media (max-width:310px){
+	.center-bar-next2{
+		margin-top:170%;
+	}
+}
+@media (max-width:290px){
+	.center-bar-next2{
+		margin-top:190%;
+	}
+}
+@media (max-width:250px){
+	.center-bar-next2{
+		margin-top:200%;
+	}
+}
